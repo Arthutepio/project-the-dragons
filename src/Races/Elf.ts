@@ -20,3 +20,6 @@ export default class Elf extends Race {
     return Elf._createdInstancesCount;
   }
 }
+
+const test = new Elf('Manteiga', 50);
+console.log(test);
