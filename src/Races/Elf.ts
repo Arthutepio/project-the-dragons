@@ -16,7 +16,7 @@ export default class Elf extends Race {
     return this._maxLifePoints;
   }
 
-  public static createdInstancesCount():number {
+  static createdRacesInstances(): number {
     return Elf._createdInstancesCount;
   }
 }
