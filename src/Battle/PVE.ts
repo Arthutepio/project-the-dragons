@@ -10,4 +10,5 @@ export default class PVE extends Battle {
     this._player = player;
     this._monster = monster;
   }
+  // falta implementar logica
 }
