@@ -17,9 +17,6 @@ export default class Elf extends Race {
   }
 
   static createdRacesInstances(): number {
-    return Elf._createdInstancesCount;
+    return this._createdInstancesCount;
   }
 }
-
-const test = new Elf('Manteiga', 50);
-console.log(test);
