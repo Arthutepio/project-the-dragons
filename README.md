@@ -1,4 +1,4 @@
-# Boas vindas ao Trybe and Dragons!
+# Boas vindas ao Trybers and Dragons!
 
 Este projeto tem como objetivo desenvolver um jogo RPG (Role Playing Game) no estilo Dungeons & Dragons de interpretação de papéis. Foi desenvolvido apenas o Backend utilizando a arquitetura SOLID juntamente com os princípios do paradigma POO.
 
